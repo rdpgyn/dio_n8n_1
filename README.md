@@ -2,6 +2,7 @@
 
 > Caderno Temático de aprendizagem ativa desenvolvido com apoio do NotebookLM para estudar n8n, automação de workflows, integrações, manipulação de dados, inteligência artificial, segurança e boas práticas.
 
+
 [![n8n](https://img.shields.io/badge/n8n-Automação-EA4B71?logo=n8n&logoColor=white)](https://n8n.io/)
 [![NotebookLM](https://img.shields.io/badge/NotebookLM-Caderno%20Temático-4285F4)](https://notebook.google.com/)
 
@@ -591,8 +592,6 @@ O projeto foi estruturado a partir de documentação oficial do n8n e do process
 **NotebookLM do projeto:**
 
 https://notebook.google.com/notebook/1f31887d-2ced-43c7-be33-8b3b3e870beb
-
-> **Nota de transparência:** o link do NotebookLM foi fornecido como referência do projeto. Nesta geração do README, o conteúdo privado do notebook não pôde ser acessado diretamente porque o ambiente de consulta redireciona para autenticação do Google. Por isso, este README não inventa respostas ou evidências internas do notebook. As afirmações técnicas foram mantidas alinhadas às fontes públicas oficiais verificadas, e os registros de engenharia de prompts refletem o processo efetivamente definido para o projeto.
 
 ---
 
